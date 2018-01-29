@@ -1,0 +1,1485 @@
+dblabel,hour_bins,labels,image_id,views
+0,day,Natural Landscape,3,96
+0,day,Urban Scenes,6,93
+1,day,Urban Scenes,4,5064
+1,night,Natural Landscape,1,63
+1,night,Urban Scenes,9,75
+8,day,Urban Scenes,10,58
+9,day,Urban Scenes,4,1029
+9,night,Urban Scenes,9,1850
+10,day,Food,39,1678
+13,day,Natural Landscape,1,134
+13,day,Urban Scenes,19,1750
+14,day,Urban Scenes,9,613
+16,day,Urban Scenes,21,390
+18,day,Natural Landscape,4,524
+18,day,Urban Scenes,37,2329
+20,day,Urban Scenes,45,1776
+20,night,Urban Scenes,5,456
+22,night,Urban Scenes,78,1637
+23,day,Food,6,11813
+23,day,Natural Landscape,32,4231
+23,day,Urban Scenes,34,4507
+23,day,people,3,313
+23,day,wildlife,55,20484
+23,night,Food,2,53
+23,night,Natural Landscape,6,387
+23,night,Urban Scenes,43,948
+23,night,drinks,1,33
+23,night,people,4,634
+23,night,wildlife,18,6454
+24,day,Food,22,6950
+24,day,Natural Landscape,853,105879
+24,day,Urban Scenes,23,3549
+24,day,drinks,1,17
+24,day,people,46,29587
+24,day,wildlife,240,206891
+24,night,Food,2,60
+24,night,Natural Landscape,136,21957
+24,night,Urban Scenes,6,2553
+24,night,people,17,9853
+24,night,wildlife,38,7294
+25,day,Food,2,546
+25,day,Natural Landscape,20,2786
+25,day,Others,1,33
+25,day,Urban Scenes,110,8491
+25,day,people,15,3316
+25,day,wildlife,12,1184
+25,night,Food,3,23908
+25,night,Natural Landscape,7,423
+25,night,Others,1,107
+25,night,Urban Scenes,21,8393
+25,night,people,5,2177
+26,day,Food,485,282751
+26,day,Natural Landscape,117,34943
+26,day,Others,23,2193
+26,day,Urban Scenes,574,201782
+26,day,drinks,51,11090
+26,day,people,206,117296
+26,day,wildlife,48,14659
+26,night,Food,479,172471
+26,night,Natural Landscape,29,6467
+26,night,Others,2,612
+26,night,Urban Scenes,368,71662
+26,night,drinks,65,9401
+26,night,people,135,79653
+26,night,wildlife,11,8954
+27,day,Food,7,859
+27,day,Urban Scenes,7,5533
+27,day,drinks,9,557
+27,day,people,5,546
+27,day,wildlife,1,119
+27,night,Food,5,467
+27,night,Urban Scenes,3,1374
+27,night,drinks,5,488
+27,night,people,6,523
+27,night,wildlife,2,347
+28,day,Food,1,37
+28,day,Natural Landscape,4,2653
+28,day,Urban Scenes,18,2345
+28,day,people,4,2035
+28,day,wildlife,8,739
+28,night,Food,1,1810
+28,night,Natural Landscape,1,421
+28,night,Urban Scenes,2,66
+29,day,Urban Scenes,6,697
+29,night,Urban Scenes,2,1527
+30,day,Food,6,115
+30,day,Natural Landscape,1,11
+30,day,Urban Scenes,6,1545
+30,night,Food,1,215
+30,night,Urban Scenes,1,131
+30,night,people,1,59
+31,day,Food,11,802
+31,day,Natural Landscape,5,285
+31,day,people,8,11930
+31,day,wildlife,1721,237961
+31,night,Natural Landscape,1,1010
+31,night,people,4,107
+31,night,wildlife,159,25792
+32,day,Food,3,185
+32,day,people,1,29
+32,night,Food,37,1422
+32,night,Urban Scenes,2,959
+32,night,drinks,3,849
+32,night,people,35,4488
+32,night,wildlife,18,259
+34,day,Food,48,924
+34,day,Urban Scenes,21,3027
+34,day,people,3,747
+34,night,Food,3,53
+34,night,drinks,3,540
+34,night,people,1,82
+35,day,Natural Landscape,3,190
+35,day,Others,1,62
+35,day,Urban Scenes,7,1072
+35,day,people,9,443
+35,day,wildlife,1,16
+35,night,Food,1,41
+35,night,Natural Landscape,3,175
+35,night,Urban Scenes,8,122
+35,night,people,2,166
+36,day,Food,237,75760
+36,day,Natural Landscape,14,1327
+36,day,Urban Scenes,77,21811
+36,day,drinks,15,4295
+36,day,people,33,22710
+36,day,wildlife,6,1498
+36,night,Food,211,43088
+36,night,Natural Landscape,4,468
+36,night,Urban Scenes,105,21699
+36,night,drinks,27,5116
+36,night,people,41,14276
+36,night,wildlife,4,1147
+37,day,Food,1,54
+37,day,Natural Landscape,6,282
+37,day,Urban Scenes,61,25951
+37,day,people,1,61
+37,night,Food,1,30243
+37,night,Natural Landscape,7,10822
+37,night,Others,2,287
+37,night,Urban Scenes,14,15387
+37,night,people,2,100
+38,day,Natural Landscape,5,8066
+38,day,Urban Scenes,17,8567
+38,day,wildlife,1,1143
+38,night,Natural Landscape,1,184
+38,night,Urban Scenes,7,7363
+38,night,people,2,334
+38,night,wildlife,1,27
+39,day,Food,1,958
+39,day,Natural Landscape,4,273
+39,day,Urban Scenes,1,92
+39,day,people,1,95
+39,night,Natural Landscape,2,64
+40,day,Food,1,51
+40,day,Natural Landscape,12,7745
+40,day,Urban Scenes,11,4258
+40,day,people,1,716
+40,day,wildlife,26,74856
+40,night,Natural Landscape,4,751
+40,night,Urban Scenes,3,1121
+41,day,Food,20,1560
+41,day,Urban Scenes,3,203
+42,day,Food,1,42
+42,day,Natural Landscape,21,11911
+42,day,Others,2,44
+42,day,Urban Scenes,15,4994
+42,day,people,5,284
+42,day,wildlife,2,1731
+42,night,Natural Landscape,8,3444
+42,night,Urban Scenes,2,1379
+42,night,people,2,1374
+43,day,Food,3,1016
+43,day,Natural Landscape,2,331
+43,day,Urban Scenes,12,13609
+43,day,drinks,1,217
+43,day,people,2,459
+43,night,Food,5,308
+43,night,drinks,2,201
+43,night,people,2,83
+44,day,Natural Landscape,3,3399
+44,day,Urban Scenes,1,56
+44,day,people,1,1349
+44,night,Food,1,90
+44,night,Natural Landscape,1,46
+44,night,people,1,1560
+45,day,Food,128,37927
+45,day,Natural Landscape,6,335
+45,day,Others,1,719
+45,day,Urban Scenes,246,40644
+45,day,drinks,9,1720
+45,day,people,56,12794
+45,day,wildlife,61,17566
+45,night,Food,65,19514
+45,night,Natural Landscape,8,6091
+45,night,Urban Scenes,129,35305
+45,night,drinks,2,94
+45,night,people,13,7198
+45,night,wildlife,8,7305
+46,day,Natural Landscape,1,83
+46,day,Urban Scenes,5,2696
+46,day,people,9,1895
+46,day,wildlife,2,268
+46,night,Natural Landscape,1,99
+46,night,people,1,410
+47,day,Food,1,240
+47,day,Urban Scenes,5,1567
+47,day,drinks,1,82
+47,day,people,1,29
+47,night,drinks,1,26
+48,day,Food,43,7993
+48,day,Natural Landscape,1,287
+48,day,people,12,36440
+48,night,Food,13,3295
+48,night,Natural Landscape,1,361
+48,night,Urban Scenes,4,1261
+49,day,people,1,2815
+49,night,Food,5,156
+49,night,Natural Landscape,1,70
+49,night,Urban Scenes,1,875
+49,night,drinks,1,152
+49,night,people,1,35
+50,day,Food,11,3021
+50,day,Natural Landscape,19,4688
+50,day,Urban Scenes,2,489
+50,day,people,1,197
+50,day,wildlife,38,8951
+50,night,Food,11,5682
+50,night,Natural Landscape,11,2877
+50,night,Urban Scenes,2,328
+50,night,wildlife,4,1511
+51,day,Food,10,3012
+51,day,Urban Scenes,2,22
+51,day,people,2,480
+51,night,Food,3,187
+51,night,Natural Landscape,1,37
+51,night,drinks,1,14
+52,day,Food,9,6868
+52,day,Natural Landscape,423,100109
+52,day,Urban Scenes,10,2780
+52,day,drinks,1,46
+52,day,people,6,888
+52,day,wildlife,10,1625
+52,night,Food,5,2735
+52,night,Natural Landscape,227,159119
+52,night,Urban Scenes,3,104
+52,night,drinks,2,153
+52,night,people,3,406
+53,day,Food,2,1005
+53,day,Natural Landscape,36,167613
+53,day,Urban Scenes,35,7272
+53,day,people,4,212
+53,day,wildlife,167,410100
+53,night,Food,1,63
+53,night,Natural Landscape,1,20
+53,night,Urban Scenes,14,404
+53,night,wildlife,4,166
+54,day,Food,2,1462
+54,day,Natural Landscape,106,92136
+54,day,Urban Scenes,10,1518
+54,day,people,2,3722
+54,day,wildlife,4,1045
+54,night,Natural Landscape,39,30985
+54,night,Urban Scenes,1,90
+54,night,people,1,511
+55,day,Food,24,5686
+55,day,drinks,3,440
+55,day,people,1,93
+55,day,wildlife,3,341
+55,night,Food,8,805
+55,night,Urban Scenes,6,1976
+55,night,drinks,5,524
+55,night,people,6,298
+56,day,Food,1,74
+56,day,Natural Landscape,28,1993
+56,day,Urban Scenes,6,1662
+56,day,people,6,5027
+56,day,wildlife,1,36
+56,night,Natural Landscape,4,1866
+56,night,Urban Scenes,7,531
+56,night,people,4,542
+56,night,wildlife,1,12
+57,day,Food,8,714
+57,day,Natural Landscape,9,4624
+57,day,Urban Scenes,23,7790
+57,day,drinks,2,247
+57,day,people,75,44476
+57,day,wildlife,5,550
+57,night,Food,4,388
+57,night,Natural Landscape,1,24
+57,night,Urban Scenes,21,603
+57,night,drinks,2,308
+57,night,people,46,32784
+57,night,wildlife,9,8800
+58,day,Food,1,26
+58,day,Natural Landscape,9,1427
+58,day,Urban Scenes,12,3474
+58,day,people,2,1118
+58,night,Natural Landscape,1,1216
+58,night,Urban Scenes,1,7
+58,night,people,4,1742
+59,day,Natural Landscape,4,1601
+59,day,Urban Scenes,18,3293
+59,day,people,6,3120
+59,day,wildlife,3,142
+59,night,Natural Landscape,2,82
+59,night,Urban Scenes,13,9209
+59,night,people,2,475
+59,night,wildlife,1,436
+60,day,Natural Landscape,8,2825
+60,day,Urban Scenes,32,9529
+60,day,wildlife,68,14392
+60,night,drinks,1,51
+61,day,Food,1,29
+61,day,Natural Landscape,3,2069
+61,day,Urban Scenes,1,212
+61,day,people,1,331
+61,day,wildlife,50,160470
+62,day,Food,1,2057
+62,day,Urban Scenes,5,6955
+62,day,drinks,1,405
+62,day,people,15,76609
+62,day,wildlife,1,44
+62,night,Food,3,93
+62,night,Urban Scenes,1,81
+62,night,drinks,4,2095
+62,night,people,9,25624
+63,day,Food,2,1174
+63,day,Natural Landscape,6,3573
+63,day,Urban Scenes,7,2194
+63,day,people,1,116
+63,night,Natural Landscape,19,1971
+63,night,Urban Scenes,1,71
+64,day,Natural Landscape,95,16432
+64,day,people,4,852
+64,day,wildlife,4,1491
+64,night,Natural Landscape,17,16281
+65,day,Others,1,1102
+65,day,Urban Scenes,3,653
+65,day,drinks,1,10535
+65,night,Food,2,181
+65,night,drinks,3,309
+66,day,Natural Landscape,1,5794
+66,day,wildlife,20,13449
+66,night,people,1,79
+67,day,Food,4,290
+67,day,Natural Landscape,4,1378
+67,day,Urban Scenes,8,1628
+67,day,drinks,2,448
+67,day,people,4,655
+67,night,Food,6,786
+67,night,drinks,3,267
+67,night,people,2,257
+68,day,Natural Landscape,3,99
+68,day,Urban Scenes,5,1851
+68,day,people,3,4752
+69,day,Food,14,1551
+69,day,Urban Scenes,1,540
+69,day,people,1,193
+69,night,Food,3,137
+69,night,Urban Scenes,2,724
+69,night,people,1,55
+70,day,Food,1,59
+70,day,Natural Landscape,1,85
+70,day,Urban Scenes,3,171
+70,day,wildlife,3,2623
+70,night,Natural Landscape,2,249
+70,night,people,1,147
+71,day,Food,22,2021
+71,day,Natural Landscape,1,46
+71,day,Urban Scenes,371,139086
+71,day,drinks,2,107
+71,day,people,21,3225
+71,day,wildlife,2,396
+71,night,Food,16,2103
+71,night,Natural Landscape,3,220
+71,night,Urban Scenes,522,156121
+71,night,drinks,3,4420
+71,night,people,17,11764
+71,night,wildlife,5,418
+72,day,Food,14,1194
+72,day,Natural Landscape,6,1179
+72,day,Others,1,7
+72,day,Urban Scenes,1,1084
+72,day,drinks,1,27
+72,day,people,14,8148
+72,day,wildlife,27,7646
+72,night,Urban Scenes,1,7
+72,night,drinks,2,954
+72,night,people,3,9047
+72,night,wildlife,5,283
+73,day,Food,1,179
+73,day,Natural Landscape,7,518
+73,day,Urban Scenes,4,333
+73,day,wildlife,2,80
+73,night,Natural Landscape,9,701
+73,night,people,1,61
+73,night,wildlife,2,1009
+74,day,Food,29,5236
+74,day,Natural Landscape,51,28886
+74,day,Urban Scenes,100,22074
+74,day,drinks,2,227
+74,day,people,16,2972
+74,day,wildlife,10,1757
+74,night,Food,11,1072
+74,night,Natural Landscape,18,6168
+74,night,Urban Scenes,10,1047
+74,night,drinks,2,359
+74,night,people,3,324
+74,night,wildlife,2,34
+75,day,Food,4,202
+75,day,Natural Landscape,60,4784
+75,day,Urban Scenes,88,30657
+75,day,people,3,3988
+75,day,wildlife,11,3706
+75,night,Natural Landscape,8,409
+75,night,Urban Scenes,40,22143
+75,night,people,3,261
+75,night,wildlife,61,5073
+76,day,Urban Scenes,34,1770
+76,night,Urban Scenes,24,779
+76,night,people,1,165
+77,day,Food,18,2969
+77,day,Natural Landscape,1,18
+77,day,Urban Scenes,2,166
+77,day,people,10,17270
+77,night,Food,24,631
+77,night,drinks,1,27
+77,night,people,12,950
+78,day,Food,3,1200
+78,day,Urban Scenes,9,2286
+78,day,drinks,3,1204
+78,day,people,1,72
+78,night,Urban Scenes,1,38
+79,day,Food,7,4797
+79,day,Natural Landscape,1,21
+79,day,Urban Scenes,32,30262
+79,day,drinks,2,87
+79,day,people,1,6
+79,day,wildlife,7,4778
+79,night,Food,4,4136
+79,night,Natural Landscape,1,219
+79,night,Urban Scenes,19,8285
+79,night,drinks,1,45
+79,night,wildlife,1,24
+80,day,Food,1,102
+80,day,Urban Scenes,2,987
+80,day,drinks,1,85
+80,night,Food,1,23
+80,night,Others,5,292
+80,night,Urban Scenes,18,817
+80,night,people,2,563
+82,day,Natural Landscape,132,86552
+82,day,Urban Scenes,6,1458
+82,day,people,33,24286
+82,night,Natural Landscape,75,52792
+82,night,Urban Scenes,3,141
+82,night,people,1,313
+83,day,Food,25,6115
+83,day,Natural Landscape,12,6494
+83,day,Others,2,15
+83,day,Urban Scenes,62,20873
+83,day,drinks,19,2740
+83,day,people,23,9778
+83,day,wildlife,1,251
+83,night,Food,27,3775
+83,night,Natural Landscape,12,9917
+83,night,Urban Scenes,7,2783
+83,night,drinks,16,2579
+83,night,people,16,11322
+84,day,Food,42,4219
+84,day,Natural Landscape,1,3
+84,day,Urban Scenes,29,5625
+84,day,people,16,1427
+84,night,Others,1,21
+85,day,Food,1,675
+85,day,Natural Landscape,4,289
+85,day,Urban Scenes,1,539
+85,day,people,3,225
+85,night,Others,1,20
+85,night,Urban Scenes,1,21
+85,night,people,1,7030
+86,day,Food,2,1212
+86,day,Natural Landscape,79,17058
+86,day,Urban Scenes,12,3401
+86,day,people,11,1247
+86,day,wildlife,275,53634
+86,night,Food,2,6404
+86,night,Natural Landscape,21,56124
+86,night,Urban Scenes,3,56
+86,night,wildlife,9,212
+87,day,Food,12,2635
+87,day,Natural Landscape,16,1396
+87,day,Others,1,28
+87,day,Urban Scenes,11,2559
+87,day,drinks,4,1226
+87,day,people,8,1138
+87,day,wildlife,1,13
+87,night,Food,29,1662
+87,night,Natural Landscape,1,1507
+87,night,Urban Scenes,4,87
+87,night,drinks,3,176
+87,night,people,96,10403
+88,day,Food,1,81
+88,day,Natural Landscape,1,511
+88,day,Urban Scenes,1,37
+88,day,people,1,1097
+88,day,wildlife,1,20
+88,night,Natural Landscape,3,202
+88,night,Urban Scenes,2,293
+89,day,Natural Landscape,33,6065
+89,day,Urban Scenes,9,2245
+89,day,wildlife,7,4753
+89,night,Food,2,57
+89,night,Natural Landscape,18,5229
+89,night,Urban Scenes,2,92
+89,night,people,1,173
+90,day,Food,1,136
+90,day,Natural Landscape,9,1820
+90,day,Urban Scenes,27,5824
+90,day,people,10,1550
+90,day,wildlife,15,2508
+90,night,Natural Landscape,1,71
+90,night,Urban Scenes,7,883
+90,night,wildlife,10,3153
+91,day,Food,5,3097
+91,day,Urban Scenes,66,34860
+91,day,drinks,3,76
+91,day,people,3,173
+91,day,wildlife,1,141
+91,night,Food,2,202
+91,night,Urban Scenes,4,1124
+92,day,Natural Landscape,4,1254
+92,day,Urban Scenes,20,6576
+92,day,wildlife,4,3056
+92,night,Urban Scenes,1,12
+93,day,Food,11,2384
+93,day,Natural Landscape,2,392
+93,day,Urban Scenes,12,8662
+93,day,people,1,246
+93,day,wildlife,1,4554
+93,night,Food,3,163
+93,night,Urban Scenes,2,2098
+93,night,drinks,1,13
+93,night,people,14,94623
+101,day,Others,8,597
+102,day,Natural Landscape,1,17
+102,day,Urban Scenes,7,5934
+102,night,Urban Scenes,38,12662
+107,day,Urban Scenes,26,2551
+108,day,Natural Landscape,11,328
+108,day,Urban Scenes,1,110
+109,day,Natural Landscape,19,365
+110,day,Urban Scenes,37,1343
+110,night,Others,1,7
+110,night,Urban Scenes,1,12
+111,day,Urban Scenes,10,382
+113,day,Others,9,1050
+113,night,Others,7,735
+113,night,Urban Scenes,1,58
+114,day,Natural Landscape,1,58
+114,day,Others,54,1187
+124,day,Natural Landscape,7,482
+124,night,Natural Landscape,1,318
+125,day,Natural Landscape,5,182
+125,day,Others,2,173
+125,night,Others,13,35
+126,day,Others,8,27
+126,night,Others,7,30
+127,night,Others,9,258
+130,day,people,48,1246
+130,day,wildlife,7,336
+130,night,Natural Landscape,1,226
+130,night,Others,1,33
+130,night,people,3,406
+134,day,Natural Landscape,13,552
+134,night,Natural Landscape,10,570
+135,night,Natural Landscape,8,271
+138,day,Natural Landscape,28,60
+139,day,Natural Landscape,76,425
+142,day,Natural Landscape,14,529
+146,day,Others,12,0
+147,day,Natural Landscape,57,1295
+150,day,Natural Landscape,6,8
+150,night,Natural Landscape,3,9
+150,night,Others,2,8
+150,night,people,1,15
+151,day,Natural Landscape,8,669
+154,night,Others,39,113
+155,day,Natural Landscape,38,1511
+161,day,Natural Landscape,5,3765
+161,day,Others,1,205
+161,night,Natural Landscape,13,693
+163,day,Natural Landscape,6,3551
+163,night,Natural Landscape,6,150
+165,day,Natural Landscape,12,7566
+165,day,Others,1,1
+165,night,Natural Landscape,5,5435
+165,night,Others,1,2823
+166,day,Natural Landscape,13,1579
+169,day,Natural Landscape,9,1303
+170,day,Natural Landscape,4,3136
+170,night,Natural Landscape,5,949
+176,day,Natural Landscape,9,357
+177,day,Natural Landscape,12,244
+177,night,Natural Landscape,3,47
+178,day,Natural Landscape,6,86
+178,night,Natural Landscape,3,97
+181,day,people,68,2227
+182,day,wildlife,32,2536
+183,day,Natural Landscape,9,36
+185,day,Urban Scenes,20,236
+186,day,people,33,341
+190,day,Others,39,1202
+190,day,people,6,1069
+190,night,Others,6,76
+192,day,Natural Landscape,12,2294
+192,day,people,2,692
+196,day,people,9,10
+199,day,Others,8,3
+202,day,Natural Landscape,11,26
+202,day,people,1,3
+204,day,Food,1,6066
+204,day,Natural Landscape,3,19166
+204,day,Others,6,35606
+204,day,people,4,24422
+204,night,Natural Landscape,6,35873
+204,night,Others,8,47642
+204,night,people,2,13375
+205,day,Natural Landscape,11,16
+206,day,Natural Landscape,11,13
+208,day,Natural Landscape,9,97
+210,day,Others,1,3
+210,night,Others,22,66
+211,night,Others,9,516
+212,night,Urban Scenes,16,48
+215,day,Urban Scenes,13,21
+216,day,Urban Scenes,11,46
+217,day,Urban Scenes,12,33
+218,day,Urban Scenes,12,23
+219,day,Urban Scenes,9,13
+222,day,Urban Scenes,106,202
+223,day,Urban Scenes,34,3
+228,day,Food,12,72
+228,night,Food,1,102
+229,day,Natural Landscape,10,312
+230,day,Urban Scenes,44,1117
+231,day,Urban Scenes,22,463
+232,day,Others,8,56
+235,day,Food,7,163
+235,day,Others,5,144
+235,day,Urban Scenes,1,328
+235,night,Others,2,24
+235,night,Urban Scenes,1,686
+238,day,Natural Landscape,3,8067
+238,day,Urban Scenes,3,3078
+238,day,people,2,21
+238,night,Others,1,35
+244,night,Natural Landscape,3,122
+244,night,Others,3,57
+244,night,people,2,7
+248,day,Others,22,299
+254,day,Natural Landscape,1,34076
+254,night,Natural Landscape,22,695
+255,day,Natural Landscape,18,341
+255,night,Natural Landscape,13,158
+256,day,Natural Landscape,27,288
+256,night,Natural Landscape,3,55
+257,day,Natural Landscape,2,16
+257,day,Others,1,120
+257,day,Urban Scenes,2,10
+257,night,Natural Landscape,1,86
+257,night,Urban Scenes,2,296
+259,day,Others,11,129
+260,day,Natural Landscape,9,114
+261,day,Natural Landscape,17,97
+262,day,Natural Landscape,12,44
+263,day,Natural Landscape,17,68
+264,day,Natural Landscape,9,24
+265,day,Natural Landscape,6,2626
+265,day,Others,7,3284
+265,day,people,2,940
+266,day,Natural Landscape,17,241
+267,day,Natural Landscape,1,798
+267,day,Others,13,581
+267,night,Natural Landscape,4,258
+268,day,Others,22,1135
+273,day,Natural Landscape,11,1552
+273,day,people,1,11
+274,day,people,9,243
+275,day,Others,8,75
+275,night,Others,26,255
+276,day,people,8,160
+276,night,people,1,15
+277,day,Others,57,641
+277,day,Urban Scenes,22,97
+277,night,Others,3,54
+278,day,Others,24,1564
+281,night,people,61,1338
+284,day,Others,9,106
+284,night,Others,9,134
+289,day,Others,49,501
+289,day,people,1,7
+291,day,Urban Scenes,8,1910
+294,day,Food,9,1256
+294,day,Natural Landscape,151,28237
+294,day,Urban Scenes,6,933
+294,day,people,23,12788
+294,day,wildlife,54,6221
+294,night,Natural Landscape,4,1252
+295,day,Natural Landscape,17,654
+296,day,Natural Landscape,20,3198
+297,day,Others,8,0
+305,day,Natural Landscape,12,51
+305,night,Natural Landscape,1,8
+306,day,Natural Landscape,19,732
+307,day,Natural Landscape,47,631
+308,day,Natural Landscape,8,191
+309,day,Natural Landscape,9,238
+310,day,Others,8,23
+311,day,Natural Landscape,8,246
+313,day,Natural Landscape,8,1197
+314,day,Others,3,11
+314,day,people,1,4
+314,night,Others,2,6
+314,night,people,3,4
+315,night,Others,24,4
+318,day,Others,18,4
+321,day,Others,9,20
+325,day,Others,8,288
+329,day,Others,28,15481
+332,day,Others,52,10
+333,day,Others,12,2
+334,day,Others,10,0
+335,day,Others,12,0
+337,day,Others,2,19
+337,day,people,5,30
+337,night,people,2,10
+339,day,people,52,6335
+339,night,Natural Landscape,2,826
+339,night,Urban Scenes,1,484
+341,day,Natural Landscape,1,34
+341,day,people,2,13
+341,night,Food,5,100
+346,day,Food,7,99
+346,night,Food,6,80
+352,night,Food,20,899
+353,day,Others,18,336
+356,day,Natural Landscape,18,372
+359,day,Natural Landscape,3,161
+359,day,Others,4,144
+359,day,people,2,113
+361,day,Natural Landscape,8,114
+362,day,Natural Landscape,10,275
+363,day,Natural Landscape,10,352
+365,day,Natural Landscape,10,176
+366,day,Natural Landscape,14,319
+367,day,Natural Landscape,17,647
+371,night,Others,3,100
+371,night,people,13,609
+374,day,Others,4,21
+374,night,Others,10,40
+376,day,Others,4,20
+376,night,Others,5,27
+377,day,Natural Landscape,22,729
+378,day,Natural Landscape,15,345
+379,day,Natural Landscape,14,291
+381,day,Others,8,76
+384,day,Others,3,9
+384,night,Others,36,182
+385,day,Food,1,13186
+385,day,Natural Landscape,28,336038
+386,day,Natural Landscape,5,359
+386,day,Urban Scenes,26,9951
+386,day,people,13,9684
+386,day,wildlife,4,2892
+386,night,Natural Landscape,3,291
+386,night,Urban Scenes,16,2578
+386,night,people,5,1124
+386,night,wildlife,1,40
+387,day,Natural Landscape,116,14605
+387,day,Urban Scenes,2,46
+387,day,wildlife,12,626
+387,night,Natural Landscape,83,16734
+387,night,people,2,180
+388,day,Food,2,265
+388,day,Natural Landscape,25,2818
+388,day,people,2,627
+388,day,wildlife,3,806
+388,night,Natural Landscape,9,2217
+389,day,Natural Landscape,21,4805
+389,day,Urban Scenes,1,211
+389,day,wildlife,1,144
+389,night,Natural Landscape,3,275
+390,day,Natural Landscape,7,992
+390,night,Natural Landscape,1,18
+391,day,Food,7,977
+391,day,Natural Landscape,128,36559
+391,day,Urban Scenes,2,664
+391,day,drinks,1,89
+391,day,people,1,42
+391,day,wildlife,11,1699
+391,night,Food,2,162
+391,night,Natural Landscape,105,14285
+391,night,drinks,1,269
+391,night,people,2,227
+391,night,wildlife,2,35
+392,day,Natural Landscape,23,12320
+392,day,Urban Scenes,2,75
+392,day,people,1,215
+392,day,wildlife,4,1492
+392,night,Natural Landscape,20,35537
+392,night,Urban Scenes,1,55
+392,night,people,2,1323
+393,day,Food,1,103
+393,day,Natural Landscape,1,46
+393,day,Urban Scenes,1,38
+393,day,people,1,27
+393,night,Food,4,57
+393,night,Urban Scenes,1,23
+393,night,people,1,26
+393,night,wildlife,1,25
+394,day,Food,7,552
+394,day,Natural Landscape,2,223
+394,day,Urban Scenes,21,13201
+394,day,drinks,10,1300
+394,day,people,26,17880
+394,day,wildlife,2,410
+394,night,Food,1,1514
+394,night,Natural Landscape,2,104
+394,night,Urban Scenes,9,22117
+394,night,drinks,21,2157
+394,night,people,7,7400
+394,night,wildlife,7,609
+396,day,Food,1,17
+396,day,Natural Landscape,16,6005
+396,day,Urban Scenes,1,308
+396,day,people,22,13898
+396,night,Natural Landscape,23,7660
+396,night,people,14,10069
+397,day,Urban Scenes,3,133
+397,day,people,6,516
+397,day,wildlife,3,729
+397,night,Natural Landscape,4,342
+397,night,Urban Scenes,7,906
+397,night,people,5,490
+398,day,Natural Landscape,14,679
+398,day,people,2,112
+398,day,wildlife,1,268
+398,night,Natural Landscape,4,1945
+398,night,wildlife,1,6343
+399,day,Food,1,381
+399,day,Natural Landscape,11,9670
+399,day,Urban Scenes,21,5744
+399,day,people,5,664
+399,day,wildlife,14,11961
+399,night,Food,3,226
+399,night,Natural Landscape,19,4052
+399,night,Urban Scenes,37,8627
+399,night,people,1,80
+399,night,wildlife,1,0
+400,day,Food,2,93
+400,day,Natural Landscape,3,1692
+400,day,Urban Scenes,1,813
+400,day,wildlife,1,100
+400,night,Natural Landscape,3,9646
+401,day,Food,27,2194
+401,day,Natural Landscape,14,1110
+401,day,Urban Scenes,12,1412
+401,day,drinks,7,480
+401,day,people,41,3288
+401,day,wildlife,6,184
+401,night,Food,23,902
+401,night,Natural Landscape,7,152
+401,night,Urban Scenes,4,501
+401,night,drinks,9,8390
+401,night,people,47,3760
+402,day,Natural Landscape,14,5350
+402,night,Natural Landscape,41,4784
+403,day,Food,62,8048
+403,day,Natural Landscape,2,620
+403,day,Urban Scenes,3,6668
+403,day,drinks,5,235
+403,day,people,7,5613
+403,day,wildlife,3,277
+403,night,Food,35,7666
+403,night,drinks,1,33
+403,night,people,2,3385
+404,day,Natural Landscape,3,1441
+404,day,Urban Scenes,11,7175
+404,night,Natural Landscape,37,5509
+404,night,Urban Scenes,2,2230
+405,day,Natural Landscape,5,769
+405,night,Natural Landscape,2,48
+405,night,people,1,35
+406,day,Natural Landscape,26,4848
+406,day,people,1,615
+406,day,wildlife,1,82
+406,night,Natural Landscape,3,586
+407,day,Food,11,4806
+407,day,Natural Landscape,10,1542
+407,day,Urban Scenes,2,254
+407,day,people,2,708
+407,day,wildlife,16,4694
+407,night,Natural Landscape,1,59
+408,day,Natural Landscape,4,664
+408,day,wildlife,1,192
+408,night,Natural Landscape,3,234
+409,day,Food,1,2372
+409,day,Urban Scenes,2,46
+409,day,people,1,14
+409,night,Natural Landscape,21,5109
+410,day,Food,2,842
+410,day,Natural Landscape,1,41
+410,day,Urban Scenes,2,888
+410,day,drinks,2,110
+410,day,people,29,2407
+410,night,Food,3,24
+410,night,drinks,11,316
+411,day,Food,1,130
+411,day,Natural Landscape,1,43
+411,day,Urban Scenes,2,2571
+411,day,people,1,19
+411,day,wildlife,1,98
+411,night,Food,3,624
+411,night,drinks,1,142
+412,day,Food,3,689
+412,day,Natural Landscape,5,2444
+412,day,Urban Scenes,12,2074
+412,day,drinks,1,283
+412,day,people,38,6730
+412,day,wildlife,10,2012
+412,night,Food,1,283
+412,night,Natural Landscape,1,10
+412,night,Urban Scenes,1,77
+412,night,people,80,3789
+413,day,Natural Landscape,9,322
+413,day,people,1,54
+413,night,Natural Landscape,1,24
+413,night,wildlife,1,502
+414,day,Natural Landscape,9,4207
+414,day,people,1,169
+414,day,wildlife,1,233
+414,night,people,3,790
+415,day,Food,2,191
+415,day,Natural Landscape,1,76
+415,day,Urban Scenes,1,939
+415,day,people,1,183
+415,night,Food,1,102
+415,night,drinks,1,292
+415,night,people,1,42
+416,day,Food,29,6326
+416,day,Natural Landscape,22,9281
+416,day,Urban Scenes,63,34196
+416,day,drinks,4,343
+416,day,people,5,3479
+416,day,wildlife,4,1904
+416,night,Food,14,2284
+416,night,Natural Landscape,14,6903
+416,night,drinks,6,134
+416,night,people,1,218
+417,day,Natural Landscape,2,720
+417,day,people,1,505
+417,day,wildlife,1,230
+417,night,Natural Landscape,1,402
+418,day,Natural Landscape,6,392
+418,day,wildlife,4,3405
+419,day,Natural Landscape,13,104
+420,day,Food,2,430
+420,day,Natural Landscape,11,118
+420,night,Natural Landscape,2,95
+421,day,Natural Landscape,3,30
+421,night,Natural Landscape,8,264
+422,day,Food,6,2037
+422,day,Natural Landscape,1,11
+422,day,Urban Scenes,2,746
+422,day,people,6,2556
+422,night,Food,1,39
+423,day,Food,6,1221
+423,day,Natural Landscape,1,53
+423,day,Urban Scenes,3,693
+423,day,people,1,623
+423,night,Urban Scenes,1,1829
+424,day,Food,6,240
+424,day,Urban Scenes,2,1157
+424,night,Food,12,318
+424,night,Natural Landscape,1,24
+424,night,people,1,34
+425,day,Natural Landscape,2,2801
+425,day,Urban Scenes,2,1158
+425,day,people,9,1227
+425,day,wildlife,1,27
+426,day,Food,1,1950
+426,day,Natural Landscape,2,638
+426,day,drinks,1,206
+426,night,Food,1,16
+426,night,Natural Landscape,1,489
+426,night,people,2,5878
+427,day,Food,3,232
+427,day,Natural Landscape,2,281
+427,day,Others,1,7
+427,day,drinks,3,378
+427,day,people,2,73
+427,night,Food,23,2612
+427,night,Natural Landscape,3,285
+427,night,drinks,1,77
+428,day,Natural Landscape,6,1833
+428,day,Urban Scenes,1,485
+428,day,people,2,63
+428,day,wildlife,11,6762
+428,night,people,1,30
+429,day,Food,5,191
+429,day,Natural Landscape,4,583
+429,day,Urban Scenes,2,859
+429,day,drinks,1,93
+429,day,people,1,103
+429,night,drinks,1,1337
+430,day,Natural Landscape,2,139
+430,day,Urban Scenes,2,414
+430,day,people,6,1155
+430,day,wildlife,3,962
+430,night,wildlife,2,60
+431,day,Natural Landscape,6,153
+431,day,wildlife,2,23
+432,day,Natural Landscape,2,1717
+432,day,Urban Scenes,21,11945
+433,day,Natural Landscape,1,36
+433,day,Urban Scenes,6,400
+433,day,people,1,144
+433,day,wildlife,2,77
+433,night,Food,1,156
+433,night,Urban Scenes,6,500
+433,night,people,1,46
+434,day,Food,6,8882
+434,day,Natural Landscape,2,1618
+434,day,Urban Scenes,52,22956
+434,day,drinks,2,572
+434,day,people,1,288
+434,day,wildlife,1,12
+434,night,Food,2,236
+434,night,Urban Scenes,62,15610
+435,day,Food,4,3683
+435,day,Natural Landscape,7,129
+435,day,Urban Scenes,2,46
+435,day,people,14,1592
+435,day,wildlife,46,22520
+435,night,Food,1,127
+435,night,Natural Landscape,2,34
+435,night,Urban Scenes,2,2560
+435,night,people,3,597
+435,night,wildlife,7,1839
+436,day,Food,1,93
+436,day,Natural Landscape,1,60
+436,day,people,2,1656
+436,night,Food,3,319
+436,night,drinks,4,175
+437,day,Food,3,149
+437,day,Natural Landscape,1,24
+437,day,Urban Scenes,1,37
+437,day,people,1,106
+437,day,wildlife,10,6838
+437,night,people,2,204
+438,day,Food,4,178
+438,day,Natural Landscape,9,795
+438,day,Urban Scenes,4,212
+438,day,drinks,3,393
+438,day,people,4,3065
+438,night,Food,5,212
+438,night,Urban Scenes,1,945
+438,night,drinks,2,74
+438,night,people,2,324
+439,day,Food,7,13839
+439,day,Natural Landscape,2,1846
+439,night,Food,40,76772
+440,day,Natural Landscape,8,11
+440,night,Food,2,54
+441,day,Food,1,589
+441,day,Natural Landscape,1,643
+441,day,Urban Scenes,2,725
+441,day,drinks,1,66
+441,day,wildlife,6,2936
+441,night,people,2,92
+442,day,Natural Landscape,10,202
+443,day,Natural Landscape,2,650
+443,day,Urban Scenes,3,101
+443,day,people,1,339
+443,day,wildlife,10,3005
+443,night,Natural Landscape,1,61
+443,night,Urban Scenes,1,2308
+443,night,people,1,138
+444,day,Food,3,115
+444,day,Natural Landscape,2,35
+444,day,drinks,1,12
+444,day,wildlife,1,78
+444,night,Urban Scenes,1,306
+444,night,drinks,1,15
+444,night,people,1,154
+445,day,Natural Landscape,1,756
+445,day,wildlife,14,10733
+446,day,Natural Landscape,1,5
+446,day,Urban Scenes,12,2351
+446,night,Urban Scenes,1,77
+446,night,drinks,1,31
+446,night,people,1,189
+447,day,Food,2,2091
+447,day,Natural Landscape,2,16
+447,day,Urban Scenes,2,702
+447,day,drinks,2,58
+447,day,people,4,1168
+447,night,Food,4,204
+447,night,Natural Landscape,1,7
+447,night,people,2,202
+448,day,Natural Landscape,22,6602
+448,day,wildlife,1,238
+450,day,Natural Landscape,50,15422
+450,day,people,1,782
+450,night,Food,5,830
+451,day,Natural Landscape,19,6583
+452,day,Natural Landscape,6,495
+452,day,wildlife,5,279
+453,day,Food,5,469
+453,day,Natural Landscape,2,175
+453,day,people,4,769
+453,day,wildlife,2,299
+453,night,Food,2,175
+453,night,Natural Landscape,1,97
+453,night,people,5,875
+454,day,Natural Landscape,1,34
+454,day,Urban Scenes,6,1919
+454,night,Urban Scenes,3,560
+454,night,people,1,23
+456,day,Natural Landscape,3,266
+456,night,wildlife,4,697
+457,day,Natural Landscape,66,5826
+457,day,Urban Scenes,1,25
+457,day,people,1,36
+457,night,Natural Landscape,18,4459
+458,day,Food,1,49
+458,day,Natural Landscape,71,3869
+458,day,drinks,1,28
+458,day,wildlife,1,43
+458,night,Food,2,102
+458,night,Natural Landscape,25,2911
+458,night,Urban Scenes,1,304
+458,night,drinks,1,35
+459,day,Food,7,3605
+459,day,Natural Landscape,2,497
+459,day,Urban Scenes,83,10797
+459,day,people,9,650
+459,night,Food,6,186
+459,night,Urban Scenes,1,266
+459,night,drinks,2,60
+459,night,people,2,79
+460,day,Food,18,4281
+460,day,wildlife,2,91607
+460,night,Food,5,796
+460,night,Natural Landscape,2,720
+460,night,people,1,1353
+461,day,Natural Landscape,1,8
+461,day,people,1,157
+461,night,Natural Landscape,11,377
+461,night,people,1,41
+462,day,Natural Landscape,15,8156
+462,day,people,2,343
+462,night,Food,2,518
+462,night,Natural Landscape,5,3048
+463,day,Food,62,6471
+463,day,Natural Landscape,2,178
+463,day,Urban Scenes,11,1587
+463,day,drinks,2,966
+463,day,people,4,1642
+463,night,Food,68,8606
+463,night,Urban Scenes,1,440
+463,night,drinks,6,310
+464,night,Food,25,1155
+465,day,Food,3,124
+465,day,drinks,6,210
+465,day,people,1,1130
+465,night,Food,8,592
+465,night,drinks,1,186
+465,night,people,1,24
+466,day,Food,11,421
+466,night,Food,6,497
+466,night,drinks,1,32
+466,night,people,2,314
+467,day,Food,4,183
+467,day,Urban Scenes,1,543
+467,night,Food,4,54
+468,day,drinks,1,52
+468,night,Food,7,271
+468,night,Urban Scenes,1,710
+468,night,drinks,1,100
+469,day,Food,4,48
+469,day,Urban Scenes,7,3703
+469,day,drinks,1,28
+469,day,people,7,853
+469,night,Food,2,151
+469,night,Urban Scenes,2,238
+469,night,drinks,1,447
+469,night,people,3,216
+470,day,Food,1,99
+470,day,people,1,196
+470,night,Food,7,369
+470,night,people,2,244
+471,day,Food,10,2872
+471,day,people,1,60
+472,day,Urban Scenes,13,2855
+472,night,Food,1,10
+473,day,Food,7,100
+473,day,people,1,13
+473,night,Food,1,140
+474,day,Food,2,337
+474,day,wildlife,9,17801
+475,day,Food,3,52
+475,day,people,1,96
+475,day,wildlife,1,24
+475,night,Food,6,95
+476,day,Food,4,103
+476,day,wildlife,1,24
+476,night,Food,81,1210
+476,night,people,1,135
+477,day,Food,2,54
+477,night,Food,7,113
+477,night,people,1,73
+478,day,Food,32,297
+478,night,Food,16,217
+478,night,drinks,1,497
+478,night,people,1,468
+479,day,Food,8,118
+479,night,Food,1,10
+480,day,Food,10,104
+480,night,people,1,45
+481,day,Food,31,1052
+481,day,Urban Scenes,5,4515
+481,night,Food,1,257
+482,day,Food,1,213
+482,day,Urban Scenes,1,434
+482,night,Food,7,1277
+482,night,drinks,2,353
+482,night,people,1,283
+483,day,Food,1,1598
+483,day,Urban Scenes,30,28821
+483,night,Urban Scenes,2,1390
+483,night,people,1,1011
+484,day,Food,1,31
+484,day,Natural Landscape,1,243
+484,day,Urban Scenes,13,3015
+484,day,people,2,171
+484,night,Food,6,553
+484,night,Urban Scenes,5,3185
+485,day,Food,6,351
+486,day,Food,3,122
+486,day,people,2,324
+486,night,Food,5,555
+487,day,Food,6,271
+487,day,people,1,68
+487,day,wildlife,1,4128
+487,night,people,2,182
+488,day,Food,7,832
+488,day,drinks,1,29
+488,day,people,1,23
+488,night,Food,4,115
+488,night,drinks,1,18
+488,night,people,1,31
+489,day,Food,1,1069
+489,day,people,3,1404
+489,day,wildlife,5,432
+489,night,Food,2,2533
+489,night,people,2,2244
+489,night,wildlife,1,60
+490,day,Food,1,375
+490,day,Urban Scenes,4,226
+490,night,Food,3,671
+491,day,Food,24,4055
+491,day,drinks,1,21
+491,day,wildlife,1,178
+491,night,Food,4,562
+491,night,Urban Scenes,1,26
+491,night,drinks,2,62
+491,night,people,1,159
+492,day,Food,3,128
+492,night,Food,67,14500
+492,night,drinks,1,26
+493,day,Food,3,497
+493,day,Urban Scenes,1,0
+493,day,wildlife,1,34
+493,night,Food,4,666
+493,night,drinks,1,354
+493,night,people,2,160
+494,day,Food,25,1998
+494,day,people,2,104
+494,night,people,1,89
+495,day,Food,1,55
+495,day,Urban Scenes,4,2071
+495,day,drinks,2,24
+495,night,drinks,1,173
+496,day,Food,2,73
+496,day,Urban Scenes,1,89
+496,day,drinks,1,53
+496,day,people,3,108
+496,night,Food,1,56
+496,night,Urban Scenes,2,406
+496,night,drinks,2,81
+497,day,Food,2,151
+497,day,wildlife,1,28
+497,night,Food,1,29
+497,night,drinks,3,66
+497,night,people,1,59
+498,day,Food,7,1294
+498,day,people,1,40
+498,night,Food,2,486
+498,night,drinks,1,201
+498,night,people,4,527
+499,day,Food,12,335
+499,day,people,1,32
+499,night,people,1,65
+501,day,Food,1,172
+501,day,Natural Landscape,2,330
+501,day,Urban Scenes,5,1505
+501,day,people,1,2891
+501,day,wildlife,3,1119
+501,night,Urban Scenes,4,1332
+502,day,people,2,320
+502,night,Food,1,55
+502,night,people,6,967
+502,night,wildlife,1,102
+503,day,Food,5,891
+503,day,Urban Scenes,4,955
+503,day,drinks,3,134
+503,day,people,3,909
+503,day,wildlife,2,201
+503,night,Food,1,12
+503,night,Urban Scenes,10,3797
+503,night,drinks,2,146
+504,day,Food,4,418
+504,day,drinks,1,44
+504,night,Food,2,253
+504,night,drinks,1,14
+505,day,Food,5,1228
+505,day,Urban Scenes,8,114
+505,day,drinks,6,1735
+505,day,people,1,340
+505,night,Food,3,56
+505,night,Urban Scenes,1,339
+505,night,drinks,11,6628
+505,night,people,1,18
+506,day,Food,10,1041
+506,day,people,17,2175
+506,day,wildlife,1,18
+506,night,Food,4,437
+506,night,people,5,588
+507,day,Food,4,6017
+507,day,Natural Landscape,2,45
+507,day,people,1,605
+507,day,wildlife,67,214658
+507,night,wildlife,8,656
+508,day,Food,1,33
+508,day,drinks,2,86
+508,night,Food,23,1043
+510,day,Food,1,109
+510,night,Food,21,7284
+510,night,people,3,1650
+511,day,people,1,47
+511,day,wildlife,1,156
+511,night,Food,4,81
+511,night,drinks,2,648
+511,night,people,2,120
+512,day,Food,5,509
+512,night,Food,3,449
+513,day,Food,35,1645
+513,day,Urban Scenes,3,1676
+513,day,drinks,1,16
+513,night,Food,18,808
+514,day,Food,1,18
+514,day,drinks,2,50
+514,day,people,1,198
+514,night,Food,3,135
+514,night,Natural Landscape,1,6
+514,night,drinks,2,74
+516,day,Food,1,84
+516,day,people,12,3159
+516,night,Food,5,924
+516,night,people,7,1561
+517,day,Urban Scenes,29,7564
+517,night,Food,1,6179
+517,night,Urban Scenes,1,439
+518,day,Food,1,264
+518,night,Food,18,8438
+518,night,drinks,1,69
+519,day,Food,3,85
+519,day,drinks,5,1140
+519,night,drinks,1,230
+519,night,people,2,231
+520,day,Food,5,263
+520,day,drinks,1,9
+520,day,people,2,250
+520,night,Food,2,132
+520,night,Urban Scenes,2,74
+520,night,drinks,3,108
+521,day,Urban Scenes,1,156
+521,night,Food,7,799
+522,day,Food,1,58
+522,day,Urban Scenes,24,23898
+522,day,people,2,139
+522,day,wildlife,2,299
+522,night,Urban Scenes,4,8521
+522,night,people,1,1438
+523,day,Urban Scenes,3,1290
+523,day,wildlife,2,732
+523,night,Natural Landscape,1,142
+523,night,Urban Scenes,1,3164
+524,day,Urban Scenes,9,6178
+525,day,Natural Landscape,1,44
+525,day,Urban Scenes,5,565
+525,day,people,3,15568
+526,day,Urban Scenes,4,1596
+526,day,drinks,1,21
+526,day,people,2,685
+526,day,wildlife,3,1602
+526,night,Urban Scenes,1,12802
+526,night,people,1,75
+526,night,wildlife,1,686
+527,day,Urban Scenes,4,2105
+528,day,Urban Scenes,12,1115
+528,day,people,1,304
+528,night,Urban Scenes,1,9
+529,day,Natural Landscape,1,37
+529,day,Urban Scenes,5,52491
+529,day,wildlife,1,47
+529,night,Urban Scenes,3,180
+530,day,Urban Scenes,4,1561
+530,day,wildlife,10,1836
+531,day,Urban Scenes,5,557
+531,night,Natural Landscape,1,3484
+531,night,Urban Scenes,2,1603
+532,day,Urban Scenes,1,277
+532,day,drinks,1,34
+532,night,Food,1,10
+532,night,Natural Landscape,2,66
+532,night,Urban Scenes,1,222
+532,night,drinks,1,71
+532,night,wildlife,1,13
+533,day,Urban Scenes,13,12771
+534,day,Urban Scenes,1,292
+534,day,wildlife,1,16
+534,night,Urban Scenes,1,531
+535,day,Natural Landscape,1,827
+535,day,drinks,3,136
+535,night,Food,1,196
+535,night,Urban Scenes,3,3088
+535,night,drinks,1,30
+536,day,Urban Scenes,2,839
+536,day,wildlife,6,5560
+537,day,Food,2,104
+537,day,Urban Scenes,1,67
+537,day,people,5,35895
+538,day,Urban Scenes,7,162
+538,day,wildlife,1,10
+539,day,Urban Scenes,4,15
+539,night,Urban Scenes,4,444
+540,day,Urban Scenes,34,922
+540,night,Urban Scenes,1,81
+541,day,Urban Scenes,1,155
+541,day,people,13,2135
+542,day,Urban Scenes,8,161
+543,day,Food,1,758
+543,day,wildlife,15,15043
+545,day,people,18,4874
+545,day,wildlife,1,71
+545,night,people,1,459
+547,day,people,2,837
+547,day,wildlife,5,1714
+547,night,wildlife,1,19
+548,day,wildlife,8,1598
+549,day,Natural Landscape,1,36
+549,day,Urban Scenes,5,98
+549,day,people,1,366
+549,night,people,1,29
+550,day,people,1,800
+550,night,people,9,10709
+551,night,people,9,3689
+552,day,people,13,10215
+552,night,people,18,15443
+553,day,people,9,3413
+553,night,people,1,971
